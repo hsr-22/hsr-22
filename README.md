@@ -1,2 +1,3 @@
-# Hi, I am Harsh.
-  This page is under development.
+# Harsh S Roniyar - Exploring newer possibilities
+Hi, I am Harsh Roniyar.
+This page is currently under development.
