@@ -1,5 +1,5 @@
 # Harsh S Roniyar
-### "Exploring newer possibilities"
+## <sub>"Exploring newer possibilities"</sub>
 
 Hi, I am Harsh Roniyar.
 
