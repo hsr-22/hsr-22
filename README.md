@@ -1,4 +1,3 @@
-# hsr-22.github.io
 # Harsh S Roniyar - "Exploring newer possibilities"
-Hi, I am Harsh Roniyar.
+Hi, I am Harsh Roniyar. \n
 This page is currently under development.
