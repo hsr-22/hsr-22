@@ -9,7 +9,7 @@ Hi, I am Harsh Roniyar.
 
 Here's some stats for interested people
 
-<img src="https://github-readme-stats.vercel.app/api?username=hsr-22&&show_icons=trueicon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsr-22&show_icons=true&theme=radical)
 
 (In case the "total commits" above don't match the one shown below, it's because of private contributions.)
 
