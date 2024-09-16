@@ -11,6 +11,10 @@ Here's some stats for interested people
 
 ![Harsh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hsr-22&show_icons=true&theme=radical)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Prater-12/Prater-12/output/snake.svg" alt="Snake animation" />
+
 (In case the "total commits" above don't match the one shown below, it's because of private contributions.)
 
 *This page will keep undergoing changes with time.* 
