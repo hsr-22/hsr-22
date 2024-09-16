@@ -13,7 +13,7 @@ Here's some stats for interested people
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Prater-12/Prater-12/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hsr-22/hsr-22/output/snake.svg" alt="Snake animation" />
 
 (In case the "total commits" above don't match the one shown below, it's because of private contributions.)
 
